@@ -1,0 +1,298 @@
+body {
+	background-color: #fcfeff;
+}
+
+#menuBarmain {
+	padding: 18px;
+}
+
+.socialMedia a i {
+	/*float: left;*/
+	color: white;
+	margin-left: 10px;
+	transition: 0.50s;
+}
+.socialMedia a i:hover{
+	transform: rotate(360deg);
+}
+
+#brandname {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	margin-right: 3%;
+	font-style: italic;
+	transition: 0.55s;
+}
+#brandname:hover {
+	font-size: 20px;
+}
+
+#id {
+	line-height: 30px;
+}
+
+#menuBar {
+	padding: 10px 15px;
+	border: transparent;
+	font-size: 17.5px;
+}
+
+#menuBar:hover {
+	background-color: #fff;
+	color: #666;
+}
+
+#aktif {
+	background-color: #fff;
+	color: #666;
+}
+
+#bannerMain {
+	height: 100vh;
+	background-image: url(img/bg3.jpg);
+	background-position: center;
+	background-size: cover;
+	/*filter: grayscale(40%);*/
+	z-index: -1;
+}
+
+#isiBanner {
+	z-index: 1;
+}
+
+#imgOfprofile {
+	transition: 0.70s;
+	width: 24.5%;
+	border: 4px solid rgba(0, 0, 0, 0.7);
+	border-radius: 100%;
+	filter: opacity(65%);
+}
+#imgOfprofile:hover {
+	transform: rotate(360deg);
+	width: 26.5%;
+	filter: opacity(200%);
+}
+
+#h1Ofname {
+	font-size: 25px;
+	transition: 0.55s;
+	color: #fff;
+}
+#h1Ofname:hover {
+	font-size: 26.5px;
+}
+
+#intro1{
+	transition: 0.55s;
+	font-size: 20px;
+	color: #fff;
+}
+#intro1:hover {
+	font-size: 22px;
+}
+
+#intro2{
+	transition: 0.55s;
+	font-size: 17.7px;
+	color: #fff;
+}
+#intro2:hover {
+	font-size: 18.5px;
+}
+
+#skills2 {
+	padding: 19%;
+}
+
+h4 {
+	color: #000305;
+	font-size: 32px;
+	transition: 0.55s;
+}
+h4:hover {
+	font-size: 37px;
+}
+
+#row2 {
+	margin-top:	3%;
+}
+
+.card {
+	border: none;
+	padding: 10px 15px;
+	background: none;
+}
+
+#contactEmail {
+	width: 90%;
+}
+
+#formBox {
+	padding: 50px;
+	border: transparent;
+	border-radius: 7px;
+	box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form-control{
+	outline: none;
+	border: 2px solid silver;
+	transition: 0.50s;
+}
+.form-control:hover {
+	width: 103%;
+}
+
+#footer {
+	background-color: #000;
+}
+#footer div {
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*#menuBarmain {
+	padding: 18px;
+}
+
+.socialMedia a {
+	float: left;
+	color: white;
+	margin-left: 10px;
+	padding: 10px 10px;
+}
+
+#brandname {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	margin-right: 3%;
+	font-style: italic;
+	transition: 0.55s;
+}
+#brandname:hover {
+	font-size: 20px;
+}
+
+#id {
+	line-height: 30px;
+}
+
+#menuBar {
+	padding: 10px 15px;
+	border: transparent;
+	font-size: 17.5px;
+}
+
+#menuBar:hover {
+	background-color: #fff;
+	color: #666;
+}
+
+#aktif {
+	background-color: #fff;
+	color: #666;
+}
+
+#bannerMain {
+	background-color: #012866;
+	background-image: url(bg3.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+#imgOfprofile {
+	transition: 0.70s;
+	width: 26.5%;
+}
+#imgOfprofile:hover {
+	width: 27.5%;
+}
+
+#h1Ofname {
+	font-size: 27px;
+	transition: 0.55s;
+	color: #fff;
+}
+#h1Ofname:hover {
+	font-size: 28.5px;
+}
+
+#intro1{
+	transition: 0.55s;
+	font-size: 20px;
+	color: #fff;
+}
+#intro1:hover {
+	font-size: 22px;
+}
+
+#intro2{
+	transition: 0.55s;
+	font-size: 17.7px;
+	color: #fff;
+}
+#intro2:hover {
+	font-size: 18.5px;
+}
+
+#skills2 {
+	padding: 19%;
+}
+
+h4 {
+	color: #012866;
+	font-size: 32px;
+	transition: 0.55s;
+}
+h4:hover {
+	font-size: 37px;
+}
+
+#row2 {
+	margin-top:	3%;
+}
+
+.card {
+	border: none;
+	padding: 10px 15px;
+}
+
+#contactEmail {
+	width: 90%;
+}
+
+#formBox {
+	padding: 50px;
+	border: transparent;
+	border-radius: 7px;
+	box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form-control{
+	outline: none;
+	border: 2px solid silver;
+}
+.form-control:hover {
+	width: 103%;
+}*/
