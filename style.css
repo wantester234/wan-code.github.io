@@ -63,14 +63,14 @@ body {
 
 #imgOfprofile {
 	transition: 0.70s;
-	width: 24.5%;
+	width: 22.5%;
 	border: 4px solid rgba(0, 0, 0, 0.7);
 	border-radius: 100%;
 	filter: opacity(65%);
 }
 #imgOfprofile:hover {
 	transform: rotate(360deg);
-	width: 26.5%;
+	width: 24.5%;
 	filter: opacity(200%);
 }
 
